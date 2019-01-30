@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: post
 title: "C++ & OpenCV small skills"
@@ -32,3 +33,7 @@ PL1a.bmp--PL11a.bmp
  
 
 
+=======
+# cattleImageProcessing
+CIP
+>>>>>>> e426f240ac9c1ceef137f3e896e63a267b96573c
